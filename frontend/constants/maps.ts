@@ -1,1 +1,1 @@
-export const GOOGLE_MAPS_API_KEY = "AIzaSyBpUb-KFidLcDAPy9RBkDiwyMZIB8KrESc";
+export const GOOGLE_MAPS_API_KEY = process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY;
